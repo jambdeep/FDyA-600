@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Mon Feb  8 17:13:35 2021
+Código utilizado para la clase del día 22-02-21
+apoyo en la convolucion y salida de un sistema 
+LTI
 
-@author: JAB
 """
 import numpy as np
 import matplotlib.pyplot as plt
